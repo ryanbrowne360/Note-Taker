@@ -26,6 +26,8 @@ License:
 No License is required. You are free to use and modify this program as desired.
 
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+![HTML](https://img.shields.io/badge/HTML-100%25-orange)
+![CSS](https://img.shields.io/badge/CSS-100%25-yellowgreen)
 
 ![image](https://github.com/ryanbrowne360/Note-Taker/blob/main/Screenshot%202020-11-17%20224753.png)
 	
