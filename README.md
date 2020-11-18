@@ -27,5 +27,5 @@ No License is required. You are free to use and modify this program as desired.
 
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
-![image](Screenshot 2020-11-17 224753.png)
+![image](https://github.com/ryanbrowne360/Note-Taker/blob/main/Screenshot%202020-11-17%20224753.png)
 	
