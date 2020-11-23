@@ -1,4 +1,3 @@
-
 // setting var's for dependencies
 const express = require('express');
 const p = require('path');
@@ -21,8 +20,8 @@ app.use(express.json())
 
 
 //importing api routes
-require("./routes/api_routes")(app);
-require("./routes/html_routes")(app);
+require("./api_routes")(app);
+require("./html_routes")(app);
 
 app.listen(PORT, function () {
     console.log("Taking Notes on PORT " + PORT);
